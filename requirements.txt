@@ -5,3 +5,4 @@ numpy
 seaborn
 pandas_profiling
 scipy
+sklearn
