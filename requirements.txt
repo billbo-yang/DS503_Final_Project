@@ -6,3 +6,4 @@ seaborn
 pandas_profiling
 scipy
 sklearn
+joblib
